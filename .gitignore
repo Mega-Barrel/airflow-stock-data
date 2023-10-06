@@ -1,0 +1,8 @@
+# pycache
+__pycache__
+
+# credential file
+weather-updates/.env
+
+# package file
+weather-env
