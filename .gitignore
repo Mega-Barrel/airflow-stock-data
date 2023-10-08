@@ -2,7 +2,7 @@
 __pycache__
 
 # credential file
-weather-updates/.env
+.env
 
 # package file
 weather-env
